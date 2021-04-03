@@ -1,3 +1,3 @@
-module github.com/bekhruzdilshod/bank
+module github.com/bekhruzdilshod/bankdouble
 
 go 1.16
